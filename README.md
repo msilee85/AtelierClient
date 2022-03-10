@@ -1,4 +1,4 @@
-# AtelierFrontEnd
+# Atelier
 # 🌭 Mustard 🌭
 
 Have you ever wanted to view the ins and outs of a random clothing product without being able to navigate anywhere else in the website? Well, Team Mustard brings you Mustard, a true single page shopping experience.
